@@ -1,0 +1,9 @@
+make the macro into exxe file or atleast make it use ahk v2
+minimize option
+right click option
+more accurate targeting (change visual target bcz too many words on target)
+importable configs (different file for each save so they can be shared)
+choice to use the same timing for every action (settable by user)
+alignment shapes (helps user align game to macro)
+add action that enables macro to switch tabs 
+add a function that makes the macro able to link configs together so there is an option to run 1 config after another
